@@ -32,7 +32,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
  
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gustavo Henrique</code>, Sou um profissional com 12 anos de experiência na área de Tecnologia da Informação, com formação acadêmica em Análise e Desenvolvimento de Sistemas. Ao longo da minha carreira, atuei principalmente como Analista de Suporte, com especialização em homologação e implantação de sistemas, suporte ao usuário e soluções TEF.
+<i><b>Olá</b> :wave:, sou o <code>Paulo Rodrigues</code>, Sou um profissional com 12 anos de experiência na área de Tecnologia da Informação, com formação acadêmica em Análise e Desenvolvimento de Sistemas. Ao longo da minha carreira, atuei principalmente como Analista de Suporte, com especialização em homologação e implantação de sistemas, suporte ao usuário e soluções TEF.
 
 Minha trajetória inclui a experiência significativa em desenvolvimento de sistemas, destacando um projeto desafiador no qual trabalhei no front-end de um sistema de geração de código de barras e na gestão de ativos de TI. Esses projetos me proporcionaram uma ampla gama de habilidades técnicas e a capacidade de lidar com desafios complexos de forma eficiente.
 
